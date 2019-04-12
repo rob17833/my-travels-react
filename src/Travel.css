@@ -8,10 +8,6 @@
   pointer-events: none;
 }
 
-.Lofoten{
-  border:1px solid black ;
-}
-
 .App-link {
   color: #61dafb;
 }
@@ -22,5 +18,5 @@
   }
   to {
     transform: rotate(360deg);
-  }1
+  }
 }
